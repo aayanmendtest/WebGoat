@@ -11,8 +11,8 @@
         "javaVersion": 17
     },
     "scanSettingsSAST": {
-        "enableScan": false,
-        "scanPullRequests": false,
+        "enableScan": true,
+        "scanPullRequests": true,
         "incrementalScan": true,
         "baseBranches": [],
         "snippetSize": 10
