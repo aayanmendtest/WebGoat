@@ -3,19 +3,10 @@
         "configMode": "AUTO",
         "configExternalURL": "",
         "projectToken": "",
-        "baseBranches": [
-            "master"
-        ],
+        "baseBranches": [],
         "enableLicenseViolations": "true",
         "enableSAST": "false",
         "javaVersion": 17
-    },
-    "scanSettingsSAST": {
-        "enableScan": true,
-        "scanPullRequests": true,
-        "incrementalScan": true,
-        "baseBranches": [],
-        "snippetSize": 10
     },
     "checkRunSettings": {
         "vulnerableCheckRunConclusionLevel": "failure",
